@@ -82,6 +82,21 @@ publication_category:
     title: 'Books'
   2025:
     title: '2025'    
+  2024:
+    title: '2024'   
+  2023:
+    title: '2023'   
+  2022:
+    title: '2022'   
+  2021:
+    title: '2021'   
+  2020:
+    title: '2020'   
+  2019:
+    title: '2019'
+  2018:
+    title: '2018'
+      
   conferences:
     title: 'Conference Papers'
 
