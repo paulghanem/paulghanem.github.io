@@ -78,22 +78,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  2025:
-    title: '2025'
-  2024:
-    title: ''    
-  2023:
-    title: ''
-  2022:
-    title: ''
-  2021:
-    title: ''
-  2020:
-    title: ''
-  2019:
-    title: ''
-  2018:
-  title: ''
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
