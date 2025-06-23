@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: Talks
 permalink: /talks/
 collection: talks
