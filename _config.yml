@@ -80,8 +80,8 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  2025:
+    title: '2025'    
   conferences:
     title: 'Conference Papers'
 
