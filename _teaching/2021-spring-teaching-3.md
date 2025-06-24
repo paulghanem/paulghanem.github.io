@@ -1,5 +1,5 @@
 ---
-title: "Intorduction to machine learning"
+title: "Introduction to machine learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-spring-teaching-3
