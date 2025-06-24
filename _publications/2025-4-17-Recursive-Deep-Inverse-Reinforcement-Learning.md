@@ -6,6 +6,6 @@ permalink: /publication/2025-4-17-Recursive-Deep-Inverse-Reinforcement-Learning
 date: 2025-4-17
 venue: 'PrePrint'
 paperurl: 'https://arxiv.org/pdf/2504.13241'
-authors: '<strong>Paul Ghanem</strong>, Owen Howell, Michael Potter, Pau Closas, Alireza Ramezani, Deniz Erdogmus, Tales Imbiriba'
+authors: "<strong>Paul Ghanem</strong>, Owen Howell, Michael Potter, Pau Closas, Alireza Ramezani, Deniz Erdogmus, Tales Imbiriba"
 ---
 
