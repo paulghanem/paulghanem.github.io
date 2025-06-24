@@ -45,7 +45,19 @@
 
 .pub-authors {
   font-weight: normal;
-  font-size: 0.9em;  /* You can go down to 0.85em or 0.8em if needed */
-  color: #555;       /* Optional: makes it softer gray instead of black */
+  font-size: 0.9em;
+  color: #555;
   margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.pub-venue {
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+}
+
+.pub-links {
+  margin-top: 0;
+  margin-bottom: 0.2em;
 }
