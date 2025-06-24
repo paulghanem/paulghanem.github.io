@@ -6,6 +6,6 @@ permalink: /publication/2022-10-13-Unsteady-aerodynamic-modeling-of-Aerobat-usin
 date: 2022-10-13
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/pdf/2207.12353'
-citation: 'Eric Sihite, Paul Ghanem, Adarsh Salagame, Alireza Ramezani'
+Authors: 'Eric Sihite, Paul Ghanem, Adarsh Salagame, Alireza Ramezani'
 ---
 

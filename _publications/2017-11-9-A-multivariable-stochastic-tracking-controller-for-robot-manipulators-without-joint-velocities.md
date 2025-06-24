@@ -6,6 +6,6 @@ permalink: /publication/2017-11-9-A-multivariable-stochastic-tracking-controller
 date: 2017-11-9
 venue: 'IEEE Transactions on Automatic Control'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8100950'
-citation: 'Samer S Saab, Paul Ghanem'
+Authors: 'Samer S Saab, Paul Ghanem'
 ---
 
