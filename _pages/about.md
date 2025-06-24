@@ -18,7 +18,7 @@ Research Statement
 ======
 My research lies at the intersection of imitation learning (IL), online learning, and latent variable modeling, with the goal of building intelligent systems that learn from demonstrations and adapt in real time to uncertain, dynamic environments. I develop algorithms that move beyond behavior cloning to infer the latent structure, goals, and dynamics underlying expert behavior — enabling robust generalization under partial observability and distribution shift.
 
-In parallel, I design methods for learning compact and expressive latent representations from high-dimensional, noisy, or multimodal time series. These latent spaces serve as internal models of intent and environment, supporting structured planning, prediction, and control across long horizons.
+In parallel, I develop methods for learning compact and expressive latent representations from high-dimensional, noisy, and partially observed time series, where the true system state is not directly measurable. These latent variables act as internal models of the hidden dynamics, enabling structured planning, long-horizon prediction, and feedback control in environments with incomplete or indirect observations.
 
 To support this, I integrate tools from control theory and Bayesian state estimation with modern machine learning, incorporating concepts such as recursive filtering, dynamical systems modeling, and optimal control. These frameworks introduce structure, inductive bias, and principled uncertainty quantification — improving both data efficiency and decision-making in complex, time-evolving systems.
 
