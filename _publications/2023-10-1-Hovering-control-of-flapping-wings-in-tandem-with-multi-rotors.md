@@ -6,6 +6,6 @@ permalink: /publication/2023-10-1-Hovering-control-of-flapping-wings-in-tandem-w
 date: 2023-10-1
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/pdf/2308.00183'
-Authors: 'Aniket Dhole, Bibek Gupta, Adarsh Salagame, Xuejian Niu, Yizhe Xu, Kaushik Venkatesh, Paul Ghanem, Ioannis Mandralis, Eric Sihite, Alireza Ramezani'
+authors: 'Aniket Dhole, Bibek Gupta, Adarsh Salagame, Xuejian Niu, Yizhe Xu, Kaushik Venkatesh, Paul Ghanem, Ioannis Mandralis, Eric Sihite, Alireza Ramezani'
 ---
 

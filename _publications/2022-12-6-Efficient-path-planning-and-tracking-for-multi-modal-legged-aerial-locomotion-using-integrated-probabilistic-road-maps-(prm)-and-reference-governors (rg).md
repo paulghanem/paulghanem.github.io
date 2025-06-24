@@ -6,6 +6,6 @@ permalink: /publication/2022-12-6-Efficient-path-planning-and-tracking-for-multi
 date: 2022-12-6
 venue: 'IEEE 61st Conference on Decision and Control (CDC)'
 paperurl: 'https://arxiv.org/pdf/2205.06392'
-Authors: 'Eric Sihite, Benjamin Mottis, Paul Ghanem, Alireza Ramezani, Morteza Gharib'
+authors: 'Eric Sihite, Benjamin Mottis, Paul Ghanem, Alireza Ramezani, Morteza Gharib'
 ---
 
