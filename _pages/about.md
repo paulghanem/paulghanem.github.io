@@ -11,21 +11,20 @@ Welcome to my homepage!
 
 I'm Paul, an **AI Scientist & Full Stack Engineer** from Halat, Lebanon, currently based in Boston. I specialize in bridging the gap between high-level algorithmic research and scalable software production. I graduated from **Northeastern University** with a PhD in Electrical and Computer Engineering, where I focused on building intelligent systems through imitation learning, latent space optimization, and multi-agent control.
 
-My expertise lies at the intersection of "the math" and "the build." I don’t just design algorithms; I architect the end-to-end systems that allow them to function in the real world—from low-level optimization in C++ to building the APIs and interfaces that serve these models to users. My work has been published in top-tier venues like **AAAI, TAC, IROS, ACC, and CDC**, with applications spanning Robotics, Biological systems, and audio time series.
+My expertise lies at the intersection of theory and implementation. I don’t just design algorithms, I architect the end-to-end systems that allow them to function in the real world—from low-level optimization in C++ to building the APIs and interfaces that serve these models to users. My work has been published in top-tier venues like **AAAI, TAC, IROS, ACC, and CDC**, with applications spanning Robotics, Biological systems, and audio time series.
 
 The best way to reach me for career-related inquiries or collaboration is via email at **ghanem.p@northeastern.edu**. I’m always looking to connect with fellow engineers, scientists, and builders, so feel free to reach out!
 
 Aside from coding and research, I love playing soccer, skiing, and weight lifting!
 
-Technical Strategy & Research
+Research
 ======
-I build **adaptive, intelligent systems** that learn from demonstrations and evolve in real-time. My goal is to move AI from static research environments into dynamic, "production-ready" systems.
+I build **adaptive, intelligent systems** that learn from demonstrations and evolve in real-time. My goal is to move AI from static research environments into dynamic, production-ready systems.
 
 * **Full-Stack AI Deployment:** I develop algorithms that move beyond behavior cloning to infer latent goals and dynamics. I focus on making these models robust against distribution shifts, ensuring they perform reliably when deployed in the wild.
 * **Latent Variable Architecture:** I design methods for learning compact, expressive representations from high-dimensional, noisy time-series data. These act as internal models for structured planning and long-horizon prediction, even when the environment is only partially observable.
 * **Engineering Rigor:** By integrating control theory and Bayesian state estimation with modern machine learning, I introduce inductive bias and uncertainty quantification into my builds. This results in systems that are not only data-efficient but also interpretable and scalable.
 
-Ultimately, I am driven to create **Full Stack AI**—intelligent tools that operate under uncertainty, learn from limited supervision, and are built with the architectural integrity to scale.
 
 Trajectory
 ======
