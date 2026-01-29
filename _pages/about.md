@@ -24,9 +24,6 @@ My research lies at the intersection of imitation learning (IL), online learning
 
 In parallel, I develop methods for learning compact and expressive latent representations from high-dimensional, noisy, and partially observed time series, where the true system state is not directly measurable. These latent variables act as internal models of the hidden dynamics, enabling structured planning, long-horizon prediction, and feedback control in environments with incomplete or indirect observations.
 
-
-To support this, I integrate tools from control theory and Bayesian state estimation with modern machine learning, incorporating concepts such as recursive filtering, dynamical systems modeling, and optimal control. These frameworks introduce structure, inductive bias, and principled uncertainty quantification — improving both data efficiency and decision-making in complex, time-evolving systems.
-
 To support this, I translate these mathematical frameworks into **scalable, production-grade software architectures**. I integrate tools from control theory and Bayesian state estimation with modern full-stack development, ensuring that complex concepts like recursive filtering and dynamical systems modeling are delivered through **robust low-latency backends**. 
 
 Ultimately, my goal is to build adaptive, interpretable, and scalable learning systems that operate under uncertainty, learn from limited supervision, and align with human intent — with applications in robotics, behavioral modeling, and intelligent assistive technologies. 
