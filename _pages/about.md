@@ -19,11 +19,17 @@ Aside from coding and research, I love playing soccer, skiing, and weight liftin
 
 Research
 ======
-I build **adaptive, intelligent systems** that learn from demonstrations and evolve in real-time. My goal is to move AI from static research environments into dynamic, production-ready systems.
+My research lies at the intersection of imitation learning (IL), online learning, and latent variable modeling, with the goal of building intelligent systems that learn from demonstrations and adapt in real time to uncertain, dynamic environments. I develop algorithms that move beyond behavior cloning to infer the latent structure, goals, and dynamics underlying expert behavior — enabling robust generalization under partial observability and distribution shift.
 
-* **Full-Stack AI Deployment:** I develop algorithms that move beyond behavior cloning to infer latent goals and dynamics. I focus on making these models robust against distribution shifts, ensuring they perform reliably when deployed in the wild.
-* **Latent Variable Architecture:** I design methods for learning compact, expressive representations from high-dimensional, noisy time-series data. These act as internal models for structured planning and long-horizon prediction, even when the environment is only partially observable.
-* **Engineering Rigor:** By integrating control theory and Bayesian state estimation with modern machine learning, I introduce inductive bias and uncertainty quantification into my builds. This results in systems that are not only data-efficient but also interpretable and scalable.
+
+In parallel, I develop methods for learning compact and expressive latent representations from high-dimensional, noisy, and partially observed time series, where the true system state is not directly measurable. These latent variables act as internal models of the hidden dynamics, enabling structured planning, long-horizon prediction, and feedback control in environments with incomplete or indirect observations.
+
+
+To support this, I integrate tools from control theory and Bayesian state estimation with modern machine learning, incorporating concepts such as recursive filtering, dynamical systems modeling, and optimal control. These frameworks introduce structure, inductive bias, and principled uncertainty quantification — improving both data efficiency and decision-making in complex, time-evolving systems.
+
+To support this, I translate these mathematical frameworks into **scalable, production-grade software architectures**. I integrate tools from control theory and Bayesian state estimation with modern full-stack development, ensuring that complex concepts like recursive filtering and dynamical systems modeling are delivered through **robust low-latency backends**. 
+
+Ultimately, my goal is to build adaptive, interpretable, and scalable learning systems that operate under uncertainty, learn from limited supervision, and align with human intent — with applications in robotics, behavioral modeling, and intelligent assistive technologies. 
 
 
 Trajectory
