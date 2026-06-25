@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I'm Paul, an AI Scientist from Halat, Lebanon. My research interest lies in LLM reasoning,imitation learning, optimization and controls. I graduated from Northeastern University with a PhD in Electrical and Computer Engineering, where I conducted research on various topics including imitation learning, learning on latent spaces, online learning, second order newton optimization and multi-agent control. Applications of my research included Robotics, Biological systems and audio time series. I have published more than a dozen papers at top-tier AI and controls conferences such as AAAI, TMLR,TAC, IROS, ACC and CDC. 
+I'm Paul, an AI Scientist from Halat, Lebanon. My research interest lies in LLM reasoning, imitation learning, optimization and controls. I graduated from Northeastern University with a PhD in Electrical and Computer Engineering, where I conducted research on various topics including imitation learning, learning on latent spaces, online learning, second order newton optimization and multi-agent control. Applications of my research included Robotics, Biological systems and audio time series. I have published more than a dozen papers at top-tier AI and controls conferences such as AAAI, TMLR,TAC, IROS, ACC and CDC. 
 
 The best way to reach me for career-related stuff is by shooting me an email at ghanem.p@northeastern.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, etc, so feel free to reach out even if we never met in person.
 
