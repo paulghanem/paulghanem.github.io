@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I'm Paul, an AI Scientist from Halat, Lebanon. My research interest lies in LLM reasoning, imitation learning, optimization and controls. I graduated from Northeastern University with a PhD in Electrical and Computer Engineering, where I conducted research on various topics including imitation learning, learning on latent spaces, online learning, second order newton optimization and multi-agent control. Applications of my research included Robotics, Biological systems and audio time series. I have published more than a dozen papers at top-tier AI and controls conferences such as AAAI, TMLR, TAC, IROS, ACC and CDC. 
+I'm Paul, a robotics and AI researcher from Halat, Lebanon. My research spans LLM post-training optimization, inverse reinforcement learning, physics-informed neural networks, and control theory, with hands-on experience deploying on robotic arms, drones, mobile platforms, and underwater swarms. I have published more than a dozen papers at top-tier AI and controls venues including AAAI, TMLR, IEEE TAC, IROS, ACC, and CDC. Work from my lab has been featured in National Geographic, Popular Science, and WIRED.
 
 The best way to reach me for career-related stuff is by shooting me an email at ghanem.p@northeastern.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, etc, so feel free to reach out even if we never met in person.
 
@@ -20,9 +20,23 @@ My research lies at the intersection of imitation learning (IL), online learning
 
 In parallel, I develop methods for learning compact and expressive latent representations from high-dimensional, noisy, and partially observed time series, where the true system state is not directly measurable. These latent variables act as internal models of the hidden dynamics, enabling structured planning, long-horizon prediction, and feedback control in environments with incomplete or indirect observations. More recently, I have been extending these ideas to Large Language Models, developing bayesian optimization frameworks to optimize latent representations in LLM at test-time to improve reasoning accuracy without retraining.
 
-To support this, I integrate tools from control theory and Bayesian state estimation with modern machine learning, incorporating concepts such as recursive filtering, dynamical systems modeling, and optimal control. These frameworks introduce structure, inductive bias, and principled uncertainty quantification, improving both data efficiency and decision-making in complex, time-evolving systems.
+To support this, I integrate tools from control theory and Bayesian state estimation with modern machine learning, incorporating concepts such as recursive filtering, dynamical systems modeling, and optimal control. These frameworks introduce structure, inductive bias, and principled uncertainty quantification, improving both data efficiency and decision-making in complex, time-evolving systems. These frameworks have been validated on physical robotic platforms including the Barrett WAM 7-DOF manipulator, a flapping wing drone with embedded flight control, a swarm of underwater fish robots, the Hello Robot Stretch mobile platform, and the Aerobat flapping-wing robot. This grounding in real hardware ensures that the methods I develop transfer beyond simulation to systems operating under real-world noise, latency, and physical constraints.
 
 Ultimately, my goal is to build adaptive, interpretable, and scalable learning systems that operate under uncertainty, learn from limited supervision, and align with human intent  with applications in robotics, LLM reasoning, behavioral modeling, and intelligent assistive technologies.
+
+Media
+======
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=44DsD1cOfZw" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aLH9T5lhjLI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+**In the Press:**
+- National Geographic — ["Bats Have Disease-Defying Superpowers. What If We Could Copy Them?"](https://www.nationalgeographic.com/animals/article/bats-evolution-research-diseases) (2024)
+- Popular Science — ["Bats' Weird Wings Inspired This Drone"](https://www.popsci.com/technology/bats-weird-wings-inspired-this-drone/) (2024)
+- WIRED — ["Rovers Are So Yesterday. It's Time to Send a Snakebot to Space"](https://www.wired.com/story/rovers-are-so-yesterday-its-time-to-send-a-snakebot-to-space/) (2023)
+- National Geographic — ["'Snakes' on the Moon? These Helpers Could Soon Join Our Lunar Mission"](https://www.nationalgeographic.com/science/article/snakes-on-the-moon-robot-helpers-could-soon-join-lunar-mission) (2022)
 
 
 Trajectory
