@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I'm Paul, a robotics and AI researcher from Halat, Lebanon. My research spans LLM post-training optimization, inverse reinforcement learning, physics-informed neural networks, and control theory, with hands-on experience deploying on robotic arms, drones, mobile platforms, and underwater swarms. I have published more than a dozen papers at top-tier AI and controls venues including AAAI, TMLR, IEEE TAC, IROS, ACC, and CDC. Work from my lab has been featured in National Geographic, Popular Science, and WIRED.
+I'm Paul, a robotics and AI researcher from Halat, Lebanon. My research spans LLM post-training optimization, inverse reinforcement learning, physics-informed neural networks, and control theory, with hands-on experience deploying on robotic arms, drones, mobile platforms, and underwater swarms. I have published more than a dozen papers at top-tier AI and controls venues including AAAI, TMLR, IEEE TAC, IROS, ACC, and CDC. My work has been featured in National Geographic. 
 
 The best way to reach me for career-related stuff is by shooting me an email at ghanem.p@northeastern.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, etc, so feel free to reach out even if we never met in person.
 
@@ -28,13 +28,12 @@ Media
 ======
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=44DsD1cOfZw" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/44DsD1cOfZw" frameborder="0" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aLH9T5lhjLI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **In the Press:**
 - National Geographic — ["Bats Have Disease-Defying Superpowers. What If We Could Copy Them?"](https://www.nationalgeographic.com/animals/article/bats-evolution-research-diseases) (2024)
-- WIRED — ["Rovers Are So Yesterday. It's Time to Send a Snakebot to Space"](https://www.wired.com/story/rovers-are-so-yesterday-its-time-to-send-a-snakebot-to-space/) (2023)
 - National Geographic — ["'Snakes' on the Moon? These Helpers Could Soon Join Our Lunar Mission"](https://www.nationalgeographic.com/science/article/lunar-robot-snakes-explore-the-moon-nasa) (2022)
 
 
