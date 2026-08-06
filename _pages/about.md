@@ -34,9 +34,8 @@ Media
 
 **In the Press:**
 - National Geographic — ["Bats Have Disease-Defying Superpowers. What If We Could Copy Them?"](https://www.nationalgeographic.com/animals/article/bats-evolution-research-diseases) (2024)
-- Popular Science — ["Bats' Weird Wings Inspired This Drone"](https://www.popsci.com/technology/bats-weird-wings-inspired-this-drone/) (2024)
 - WIRED — ["Rovers Are So Yesterday. It's Time to Send a Snakebot to Space"](https://www.wired.com/story/rovers-are-so-yesterday-its-time-to-send-a-snakebot-to-space/) (2023)
-- National Geographic — ["'Snakes' on the Moon? These Helpers Could Soon Join Our Lunar Mission"](https://www.nationalgeographic.com/science/article/snakes-on-the-moon-robot-helpers-could-soon-join-lunar-mission) (2022)
+- National Geographic — ["'Snakes' on the Moon? These Helpers Could Soon Join Our Lunar Mission"](https://www.nationalgeographic.com/science/article/lunar-robot-snakes-explore-the-moon-nasa) (2022)
 
 
 Trajectory
