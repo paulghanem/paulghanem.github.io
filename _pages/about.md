@@ -24,20 +24,23 @@ Research Statement
 ======
 I'm interested in how intelligent systems can infer hidden structure, learn objectives, and reason under uncertainty. My research draws on machine learning, Bayesian inference, and control theory, with an emphasis on data- and compute-efficient algorithms.
 
-Reward Learning and Human Intent
+### Reward Learning and Human Intent
+
 Behavior cloning teaches agents to reproduce observed behavior, but not necessarily to understand the objectives behind it. I'm interested in inverse reinforcement learning and reward learning methods that recover latent reward structures, preferences, and intentions from human demonstrations and behavior.
 
-Long-term goal: Agents that learn what people value, rather than simply imitate what they do.
+**Long-term goal:**  Agents that learn what people value, rather than simply imitate what they do.
 
-Latent Representations and Dynamical Systems
+### Latent Representations and Dynamical Systems
+
 Many real-world systems exhibit hidden states, dynamics, and objectives that cannot be directly observed. I'm interested in learning compact representations of high-dimensional, noisy, and partially observed behavioral and time-series data to recover underlying system states, agent goals, and latent intent. Drawing on Bayesian inference, recursive filtering, and dynamical systems modeling, I study how these representations can support prediction, intent inference, and adaptive decision-making.
 
-Long-term goal: Building intelligent systems that infer not only the hidden states of an environment, but also the goals and intentions of the agents operating within it.
+**Long-term goal:**  Building intelligent systems that infer not only the hidden states of an environment, but also the goals and intentions of the agents operating within it.
 
-Efficient Reasoning and Intelligent Systems
+### Efficient Reasoning and Intelligent Systems
+
 I'm interested in improving the reasoning capabilities of large language models through test-time optimization of latent representations, using Bayesian optimization to improve performance without retraining. More broadly, I want to investigate how these ideas can enable intelligent physical systems to reason, adapt, and make decisions under uncertainty and computational constraints.
 
-Long-term goal: Efficient reasoning and adaptation across both language models and embodied autonomous systems.
+**Long-term goal:**  Efficient reasoning and adaptation across both language models and embodied autonomous systems.
 
 Media
 ======
