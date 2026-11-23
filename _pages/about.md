@@ -8,21 +8,36 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I'm Paul, a robotics and AI researcher from Halat, Lebanon. My research spans LLM post-training optimization, inverse reinforcement learning, physics-informed neural networks, and control theory, with hands-on experience deploying on robotic arms, drones, mobile platforms, and underwater swarms. I have published more than a dozen papers at top-tier AI and controls venues including AAAI, TMLR, IEEE TAC, IROS, ACC, and CDC. My work has been featured in National Geographic. 
+I'm Paul, an AI and robotics researcher from Halat, Lebanon, currently a Postdoctoral Researcher at the University of Massachusetts Boston, working with Prof. Tales Imbiriba.
 
-The best way to reach me for career-related stuff is by shooting me an email at ghanem.p@northeastern.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, etc, so feel free to reach out even if we never met in person.
+My research lies at the intersection of machine learning, Bayesian inference, control theory, and robotics. I am interested in developing theoretically grounded and computationally efficient learning algorithms that enable intelligent systems to infer objectives, reason about latent structure, and adapt under uncertainty.
 
-Aside from AI, I love playing soccer, skiing, and weight lifting!
+My work spans inverse reinforcement learning, reward learning, latent-variable modeling, online optimization, and test-time reasoning in large language models. I am particularly interested in going beyond behavioral imitation to recover the underlying reward structures and preferences that drive human behavior, and in developing efficient algorithms that can learn and reason with limited data and computational resources.
+
+I combine theoretical algorithm development with experiments on physical robotic systems, including robotic manipulators, flapping-wing robots, aerial systems, mobile robots, and underwater robotic swarms. I have published more than a dozen papers at leading AI, robotics, and control venues, including AAAI, TMLR, IEEE TAC, IROS, ACC, and CDC. My work has also been featured in National Geographic.
+
+I enjoy connecting with fellow researchers, engineers, and students. Feel free to reach out at ghanem.p@northeastern.edu.
+
+Outside research, I enjoy soccer, skiing, and weightlifting.
 
 Research Statement
 ======
-My research lies at the intersection of imitation learning (IL), online learning, latent variable modeling, and LLM reasoning with the goal of building intelligent systems that learn from demonstrations and adapt in real time to uncertain, dynamic environments. I develop algorithms that move beyond behavior cloning to infer the latent structure, goals, and dynamics underlying expert behavior, enabling robust generalization under partial observability and distribution shift.
+I'm interested in how intelligent systems can infer hidden structure, learn objectives, and reason under uncertainty. My research draws on machine learning, Bayesian inference, and control theory, with an emphasis on data- and compute-efficient algorithms.
 
-In parallel, I develop methods for learning compact and expressive latent representations from high-dimensional, noisy, and partially observed time series, where the true system state is not directly measurable. These latent variables act as internal models of the hidden dynamics, enabling structured planning, long-horizon prediction, and feedback control in environments with incomplete or indirect observations. More recently, I have been extending these ideas to Large Language Models, developing bayesian optimization frameworks to optimize latent representations in LLM at test-time to improve reasoning accuracy without retraining.
+Reward Learning and Human Intent
+Behavior cloning teaches agents to reproduce observed behavior, but not necessarily to understand the objectives behind it. I'm interested in inverse reinforcement learning and reward learning methods that recover latent reward structures, preferences, and intentions from human demonstrations and behavior.
 
-To support this, I integrate tools from control theory and Bayesian state estimation with modern machine learning, incorporating concepts such as recursive filtering, dynamical systems modeling, and optimal control. These frameworks introduce structure, inductive bias, and principled uncertainty quantification, improving both data efficiency and decision-making in complex, time-evolving systems. These frameworks have been validated on physical robotic platforms including the Barrett WAM 7-DOF manipulator, the Aerobat flapping-wing robot, a swarm of underwater fish robots and  the Hello Robot Stretch mobile platform.
+Long-term goal: Agents that learn what people value, rather than simply imitate what they do.
 
-Ultimately, my goal is to build adaptive, interpretable, and scalable learning systems that operate under uncertainty, learn from limited supervision, and align with human intent  with applications in robotics, LLM reasoning, behavioral modeling, and intelligent assistive technologies.
+Latent Representations and Dynamical Systems
+Many real-world systems exhibit hidden states, dynamics, and objectives that cannot be directly observed. I'm interested in learning compact representations of high-dimensional, noisy, and partially observed behavioral and time-series data to recover underlying system states, agent goals, and latent intent. Drawing on Bayesian inference, recursive filtering, and dynamical systems modeling, I study how these representations can support prediction, intent inference, and adaptive decision-making.
+
+Long-term goal: Building intelligent systems that infer not only the hidden states of an environment, but also the goals and intentions of the agents operating within it.
+
+Efficient Reasoning and Intelligent Systems
+I'm interested in improving the reasoning capabilities of large language models through test-time optimization of latent representations, using Bayesian optimization to improve performance without retraining. More broadly, I want to investigate how these ideas can enable intelligent physical systems to reason, adapt, and make decisions under uncertainty and computational constraints.
+
+Long-term goal: Efficient reasoning and adaptation across both language models and embodied autonomous systems.
 
 Media
 ======
